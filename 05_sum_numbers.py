@@ -1,5 +1,3 @@
-# Program 5: Find the sum of two numbers using a function
-
 def add_numbers(a, b):
     return a + b
 
