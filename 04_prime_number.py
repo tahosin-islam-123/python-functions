@@ -1,5 +1,3 @@
-# Program 4: Check whether a number is prime using a function
-
 def is_prime(number):
     if number < 2:
         return False
