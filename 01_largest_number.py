@@ -1,5 +1,3 @@
-# Program 1: Find the largest of two numbers using a function
-
 def find_largest(a, b):
     if a > b:
         return a
