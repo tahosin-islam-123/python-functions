@@ -1,5 +1,3 @@
-# Program 6: Display a Fibonacci series using a function
-
 def fibonacci(count):
     series = []
     first, second = 0, 1
