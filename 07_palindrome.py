@@ -1,5 +1,3 @@
-# Program 7: Check whether a word is a palindrome using a function
-
 def is_palindrome(text):
     cleaned_text = text.replace(" ", "").lower()
     return cleaned_text == cleaned_text[::-1]
