@@ -1,5 +1,3 @@
-# Program 2: Find the factorial of a number using a function
-
 def factorial(n):
     if n < 0:
         return None
